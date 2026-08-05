@@ -168,8 +168,7 @@ The included `netlify.toml` configures Netlify to run `npm run build` with Node.
 Before deployment:
 
 1. Add the resume file as `public/resume.pdf`.
-2. Replace `https://prasoonkumar.dev` in `src/app/layout.tsx`, `src/app/robots.ts`, and `src/app/sitemap.ts` with your Vercel or custom-domain URL.
-4. Push the project to GitHub.
+2. Push the project to GitHub.
 
 In [Netlify](https://app.netlify.com):
 

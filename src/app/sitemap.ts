@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getAllSlugs } from "@/data/projects";
 
-const baseUrl = "https://prasoonkumar.dev";
+const baseUrl = "https://myprasoon.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticPages: MetadataRoute.Sitemap = [

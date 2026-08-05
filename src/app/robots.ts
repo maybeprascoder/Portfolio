@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://prasoonkumar.dev/sitemap.xml",
+    sitemap: "https://myprasoon.com/sitemap.xml",
   };
 }
