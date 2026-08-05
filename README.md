@@ -157,7 +157,6 @@ src/
 
 ### Remaining Limitations
 
-- Email and LinkedIn links use placeholder values
 - Download Resume button points to `/resume.pdf` (add PDF to `public/`)
 - Project GitHub buttons currently lead to the main GitHub profile rather than project-specific repositories
 - Contact form validates and simulates a response; connect an email service before relying on it for production messages
@@ -168,9 +167,8 @@ The included `netlify.toml` configures Netlify to run `npm run build` with Node.
 
 Before deployment:
 
-1. Replace the placeholder email and LinkedIn URLs.
-2. Add the resume file as `public/resume.pdf`.
-3. Replace `https://prasoonkumar.dev` in `src/app/layout.tsx`, `src/app/robots.ts`, and `src/app/sitemap.ts` with your Netlify or custom-domain URL.
+1. Add the resume file as `public/resume.pdf`.
+2. Replace `https://prasoonkumar.dev` in `src/app/layout.tsx`, `src/app/robots.ts`, and `src/app/sitemap.ts` with your Vercel or custom-domain URL.
 4. Push the project to GitHub.
 
 In [Netlify](https://app.netlify.com):

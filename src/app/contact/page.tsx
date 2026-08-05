@@ -57,14 +57,14 @@ export default function ContactPage() {
               <ContactCard
                 icon={Mail}
                 label="Email"
-                value="prasoon@example.com"
-                href="mailto:prasoon@example.com"
+                value="prasoonkumar.23702@gmail.com"
+                href="mailto:prasoonkumar.23702@gmail.com"
               />
               <ContactCard
                 icon={Globe}
                 label="LinkedIn"
-                value="linkedin.com/in/prasoonkumar"
-                href="https://linkedin.com/in/prasoonkumar"
+                value="linkedin.com/in/prasoon-singh-ty"
+                href="https://www.linkedin.com/in/prasoon-singh-ty/"
               />
               <ContactCard
                 icon={Globe}

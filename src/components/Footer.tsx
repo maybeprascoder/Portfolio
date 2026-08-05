@@ -44,14 +44,14 @@ export default function Footer() {
 
           <div className="flex items-center gap-6">
             <a
-              href="mailto:prasoon@example.com"
+              href="mailto:prasoonkumar.23702@gmail.com"
               aria-label="Email"
               className="text-slate-400 hover:text-cyan-400 transition-colors"
             >
               <Mail size={20} />
             </a>
             <a
-              href="https://linkedin.com/in/prasoonkumar"
+              href="https://www.linkedin.com/in/prasoon-singh-ty/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn"

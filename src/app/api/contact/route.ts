@@ -52,7 +52,7 @@ export async function POST(request: NextRequest) {
     // Example with Resend:
     //   await resend.emails.send({
     //     from: "portfolio@yourdomain.com",
-    //     to: "prasoon@example.com",
+    //     to: "prasoonkumar.23702@gmail.com",
     //     subject: `Portfolio Contact: ${body.subject}`,
     //     text: `From: ${body.name} (${body.email})\n\n${body.message}`,
     //   });
